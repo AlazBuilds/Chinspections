@@ -34,7 +34,7 @@ Questions
  What I found:
  
 Schools seemed to have failed the most inspections (23.6%) however they are a significantly larger amount of the data set. I wonder how it would change with different data pulled in the future.
-I expected food services but surprisingly liquor services rank higher 21.3%>18.6% while there are more bakery inspected. Shared Kitchens have one of the lowest failed rates while care facilities are very high. 
+Liquor establishments failed more often (21.3%) than bakeries (18.6%), though there were far fewer liquor inspections (225 vs. 706), so that rate is less reliable. Shared Kitchen User (Long Term) have one of the lowest failed rates at 4.1% while (Long Term) care facilities are very high at 22.4%. 
 
 Raw Output:
 
